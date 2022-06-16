@@ -1,6 +1,6 @@
 //jsx = Javascript + XML (semelhante ao html)
 
-import Post from './Post'
+import {Post} from './Post'
 
 function App() {
   return (
