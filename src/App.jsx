@@ -21,3 +21,4 @@ function App() {
 export default App
 
 //O componente nada mais é que uma função que retorna html.
+//As propriedades no react servem para reaproveitarmos componentes mudando apenas o visual.
