@@ -5,10 +5,7 @@ import {Post} from './Post'
 function App() {
   return (
      <>
-     <Post/>
-     <Post/>
-     <Post/>
-     <Post/>
+     <Post author="Patricia" content="O componente nada mais é que uma função que retorna html."/>
      </>
   )
 }
