@@ -1,1 +1,7 @@
-/*A extensão " module.css" é para a estilização usando o css module.
+/*A extensão " module.css" é para a estilização usando o css module.*/
+
+.header {
+   background: #333;
+}
+
+/*quando trabalhamos com css module tentamos na aioria das vezes usar apenas classes.*/
