@@ -3,6 +3,7 @@ import {Post} from './Post'
 import './styles.css'
 
 //Quando estilizamos um componente reactjs precisamos prestar bastante atenção ao escopo.
+// Vamos usar o css module, o vite trás suporte para ele.
 
 
 function App() {
