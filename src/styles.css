@@ -1,5 +1,6 @@
 body { 
     background: #121214;
+    color: #fff;
 }
 
 /*No react não vamos importar o css no html, todas as importações vão vir dos arquivos JS.*/
