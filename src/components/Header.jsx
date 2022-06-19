@@ -14,3 +14,4 @@ export function Header() {
 //no reactjs a gente não usa o class="" dentro dos elementos html. Porque como estamos dentro de um arquivo JS existe a className
 //quando usamos o css module preciso na importação dar um nome para os estilos.
 // o .header é o nom da classe que criei no arquivo de estilização.
+// o css module gera um  rash para cada classe criada para que cada uma seja única e não interfira na estilização dos outros componentes.
