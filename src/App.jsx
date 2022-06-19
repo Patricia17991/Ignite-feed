@@ -2,6 +2,8 @@
 import {Post} from './Post'
 import './styles.css'
 
+//Quando estilizamos um componente reactjs precisamos prestar bastante atenção ao escopo.
+
 
 function App() {
   return (
