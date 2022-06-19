@@ -2,6 +2,8 @@
 
 export function Header() {
     return(
-        <strong>Ignite Feed</strong>
+        <Header>Ignite Feed</Header>
     );
 }
+
+//no reactjs a gente não usa o class="" dentro dos elementos html.
