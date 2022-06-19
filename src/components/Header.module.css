@@ -2,6 +2,8 @@
 
 .header {
    background: #333;
+   height: 80px;
+
 }
 
 /*quando trabalhamos com css module tentamos na aioria das vezes usar apenas classes.*/
