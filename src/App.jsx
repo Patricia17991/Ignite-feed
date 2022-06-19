@@ -1,6 +1,7 @@
 //jsx = Javascript + XML (semelhante ao html)
-
 import {Post} from './Post'
+import './styles.css'
+
 
 function App() {
   return (
