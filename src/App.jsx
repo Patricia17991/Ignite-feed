@@ -9,7 +9,6 @@ function App() {
   return (
     <>
      <Header/>
-
      <Post author="Patricia" 
      content="O componente nada mais é que uma 
      função que retorna html."
@@ -19,7 +18,6 @@ function App() {
      função que retorna html."
      />
      </>
-     
   )
 }
 
