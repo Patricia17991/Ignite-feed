@@ -7,7 +7,6 @@ export function Post(props) {
            <p>{props.content}</p>
          </>
     )
-
 }
 
 
